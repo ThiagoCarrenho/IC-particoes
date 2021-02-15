@@ -5,4 +5,4 @@ Os arquivos aqui apresentados, todos feitos em MATLAB, são necessários para o 
 Os arquivos são várias funções aninhadas, mas três deles são os principais, com mesma intenção, calcular o número de partições irrestritas de n, basta escolher o que melhor serve para o caso:
 
 particao.m define uma função que recebe um natural n e devolve p(n).
-particoes_de_n.m
+particoes_de_n.m é um programa que calcula p(n), mas precisa alterar o valor desejado na linha 5.
