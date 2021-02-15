@@ -1,7 +1,7 @@
 tStart = tic;
 
 %Entrada
-n=200;
+n=10;
 
 %Valores iniciais
 lzero = floor(n/2);
