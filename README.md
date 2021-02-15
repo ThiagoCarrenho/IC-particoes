@@ -11,3 +11,5 @@ particoes_de_n_laco.m faz o mesmo que o acima, porém em laço, definido na linh
 Essas três opções dependem unicamente da função D.m, esta depende da função soma.m, e esta depende da função Tj.m. As descrições da função estão descritas no pdf.
 
 Por fim, a função Graficos.m serve para, caso tenha sido feito o laço e salvo a matriz A, imprimir alguns gráficos para melhor visualzar os resultados.
+
+Uma lista de resultados pode ser encontrado em listadeparticoes.txt.
