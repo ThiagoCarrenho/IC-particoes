@@ -2,7 +2,7 @@ fileID = fopen('Partitions.txt','w');
 
 A = zeros(1,3);
 
-for n=173:200
+for n=1:10
     tStart = tic; 
     
     %Valores iniciais
