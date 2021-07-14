@@ -1,7 +1,7 @@
 # IC-particoes EN
 
-  The files shown here, all in MATLAB, are for calculate the number of irrestrict partitions of n, and were done as part of an cientific iniciation, which first relatory (especific of these files) is present in https://www.ime.unicamp.br/~mac/db/2020-2S-224831.pdf (in brazilian portuguese) and a brief explanation is found in https://www.youtube.com/watch?t=1008&v=SYa9EA8n-AI&feature=youtu.be&ab_channel=IMECCUNICAMP (also in brazilian portuguese), and the final relatory is present in https://www.ime.unicamp.br/~mac/db/2021-1S-224831.pdf.
-  This cientific iniciation were done under guidance of Professor José Plínio de Oliveira Santos, and financed by CNPq through PIBIC. Also done as a part of a discipline of IMECC-UNICAMP: MS777 - Supervised Project I.
+  The files shown here, all in MATLAB, are for calculate the number of irrestrict partitions of n, and were done as part of an cientific iniciation, which first relatory (especific of these files) is present in https://www.ime.unicamp.br/~mac/db/2020-2S-224831.pdf (in brazilian portuguese) and a brief explanation is found in https://www.youtube.com/watch?t=1008&v=SYa9EA8n-AI&feature=youtu.be&ab_channel=IMECCUNICAMP (also in brazilian portuguese), and the final relatory is present in https://www.ime.unicamp.br/~mac/db/2021-1S-224831.pdf, with its explanation found at https://youtu.be/da00Q7eBWc4?t=3515.
+  This cientific iniciation were done under guidance of Professor José Plínio de Oliveira Santos, and financed by CNPq through PIBIC. Also done as a part of two disciplines of IMECC-UNICAMP: MS777 - Supervised Project I and MS877 - Supervised Project II.
   The files are some nested functions, but three of them are main, with the same intention, computate the number of irrestrict partitions of n, simply choose the best for your purpose:
 - particao.m defines a function that receives an input of a natural n and outputs p(n).
 - particoes_de_n.m is a program that computes p(n) and processing time, but it needs to change line 4 for the desired n.
@@ -13,8 +13,8 @@
 
 # PT-BR
 
-  Os arquivos aqui apresentados, todos feitos em MATLAB, são para o cálculo do número de partições irrestritas de n, e foram feitos como parte de uma iniciação científica, cujo primeiro relatório (específico destes arquivos) está presente em https://www.ime.unicamp.br/~mac/db/2020-2S-224831.pdf e uma breve explicação deste se encontra em https://www.youtube.com/watch?t=1008&v=SYa9EA8n-AI&feature=youtu.be&ab_channel=IMECCUNICAMP, e o relatório final está presente em https://www.ime.unicamp.br/~mac/db/2021-1S-224831.pdf.
-  Esta iniciação científica foi feita sob orientação do Professor Doutor José Plínio de Oliveira Santos, e financiado pelo CNPq através do PIBIC. Também aproveitado como parte de uma disciplina do IMECC-UNICAMP: MS777 - Projeto Supervisionado I.
+  Os arquivos aqui apresentados, todos feitos em MATLAB, são para o cálculo do número de partições irrestritas de n, e foram feitos como parte de uma iniciação científica, cujo primeiro relatório (específico destes arquivos) está presente em https://www.ime.unicamp.br/~mac/db/2020-2S-224831.pdf e uma breve explicação deste se encontra em https://www.youtube.com/watch?t=1008&v=SYa9EA8n-AI&feature=youtu.be&ab_channel=IMECCUNICAMP, e o relatório final está presente em https://www.ime.unicamp.br/~mac/db/2021-1S-224831.pdf, e a explicação deste em https://youtu.be/da00Q7eBWc4?t=3515.
+  Esta iniciação científica foi feita sob orientação do Professor Doutor José Plínio de Oliveira Santos, e financiado pelo CNPq através do PIBIC. Também aproveitado como parte de duas disciplinas do IMECC-UNICAMP: MS777 - Projeto Supervisionado I e MS877 - Projeto Supervisionado II.
   Os arquivos são várias funções aninhadas, mas três deles são os principais, com mesma intenção, calcular o número de partições irrestritas de n, basta escolher o que melhor serve para o caso:
 - particao.m define uma função que recebe um natural n e devolve p(n).
 - particoes_de_n.m é um programa que calcula p(n) e o tempo necessário para calcular, mas precisa alterar a linha 4 de acordo com o valor de n desejado.
