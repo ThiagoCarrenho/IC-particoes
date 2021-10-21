@@ -39,10 +39,10 @@
 # Links
 
   * MS777
-    ** Relatório / Report: https://www.ime.unicamp.br/~mac/db/2020-2S-224831.pdf
-    ** Apresentação / Presentation: https://www.youtube.com/watch?t=1008&v=SYa9EA8n-AI&feature=youtu.be&ab_channel=IMECCUNICAMP
+    * Relatório / Report: https://www.ime.unicamp.br/~mac/db/2020-2S-224831.pdf
+    * Apresentação / Presentation: https://www.youtube.com/watch?t=1008&v=SYa9EA8n-AI&feature=youtu.be&ab_channel=IMECCUNICAMP
   * MS877
-    ** Relatório / Report: https://www.ime.unicamp.br/~mac/db/2021-1S-224831.pdf
-    ** Apresentação / Presentation: https://youtu.be/da00Q7eBWc4?t=3515
+    * Relatório / Report: https://www.ime.unicamp.br/~mac/db/2021-1S-224831.pdf
+    * Apresentação / Presentation: https://youtu.be/da00Q7eBWc4?t=3515
   * PIBIC
-    ** Relatório / Report: https://proceedings.science/pibic-2021/papers/contagem-de-particoes-por-meio-de-suas-representacoes-matriciais?lang=pt-br
+    * Relatório / Report: https://proceedings.science/pibic-2021/papers/contagem-de-particoes-por-meio-de-suas-representacoes-matriciais?lang=pt-br
